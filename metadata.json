@@ -1,0 +1,6 @@
+{
+  "name": "ChargeMate AI",
+  "description": "Smart Charging Assistant & Battery Health Monitor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
